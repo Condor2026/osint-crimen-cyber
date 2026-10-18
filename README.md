@@ -8,6 +8,8 @@
 
 > ⚠️ **Aviso legal**: herramienta de investigación. Los resultados son coincidencias textuales automáticas y **no implican vinculación ni responsabilidad**. Verifica siempre en la fuente original. Ver [LEGAL.md](LEGAL.md).
 
+![TheCondor](image(1).jpg)
+
 ---
 
 ## 🇬🇧 English summary
