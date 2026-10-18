@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Base de datos y cachés de la herramienta
+osint_crimen.db
+osint_crimen.db-journal
+osint_crimen.db-wal
+osint_crimen.db-shm
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Volcados de sanciones (datos personales)
+opensanctions_crime.jsonl
+opensanctions_crime.jsonl.part
+un_consolidated.xml
+un_consolidated.xml.part
+ofac_sdn.xml
+ofac_sdn.xml.part
+
+# Estado de la watchlist
+watch_state/
+
+# Dossiers generados
+dossier_*.html
+*.graphml
+
+# Configuración local
+.env
+tg_channels.local.txt
+cracker_dict.local.txt
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
