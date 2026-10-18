@@ -1,0 +1,17 @@
+# OSINT Crimen + Cyber · lista de canales públicos de Telegram
+#
+# Formato:
+#   - Un canal por línea.
+#   - Sin @, sin https://, sin t.me/.
+#   - Solo canales PÚBLICOS (los privados con +hash NO se pueden leer).
+#   - Las líneas que empiezan por # son comentarios.
+#
+# Ejemplos (descomenta y edita a tu gusto):
+#
+# bellingcat
+# thehackersnews
+# bleepingcomputer
+#
+# Añade tus propios canales aquí y luego ejecuta:
+#   python osint_crimen_cyber.py --tg-import
+#   python osint_crimen_cyber.py --tg-update --tg-pages 0 --tg-workers 0
