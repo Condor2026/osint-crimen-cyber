@@ -1,0 +1,6 @@
+# Dependencias opcionales (la herramienta funciona sin ellas).
+# Mejoran el scraper pasivo de Telegram y la velocidad de las peticiones HTTP.
+
+requests>=2.28
+beautifulsoup4>=4.11
+feedparser>=6.0
